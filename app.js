@@ -40,7 +40,7 @@ function calculateResults() {
     //HIDE LOADER
     document.getElementById("loading").style.display = "none";
   } else {
-    showError("Please Check your numbers");
+    showError("Por favor, verifique os seus números");
   }
 }
 
